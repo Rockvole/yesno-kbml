@@ -1,7 +1,7 @@
 <keyboard version="1">
 <row>
-  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
-  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+  <button text="Yes" style="cell-color:red" image="/images/correct.svg"/>
+  <button text="No" style="cell-color:green" image="/images/mistake_no_wrong.svg"/>
 </row>
 </keyboard>
         
